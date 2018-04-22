@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExceptionFactory id="ExceptionFactory">
+	<Exception code="001-0001-00001">
+		<message i18n="CN">
+			您好
+		</message>
+		<message i18n="EN">
+			Good Morning
+		</message>
+	</Exception>
+	<Exception code="001-0001-00002">
+		<message i18n="CN">
+			添麻烦的人
+		</message>
+		<message i18n="EN">
+			trouble man
+		</message>
+	</Exception>
+</ExceptionFactory>
